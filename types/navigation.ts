@@ -1,3 +1,8 @@
+export type RootDrawerParamList = {
+    Questionário: undefined; 
+    RedeDeApoio: undefined;
+};
+
 export type RootStackParamList = {
   Home: undefined;
   ChamadaQuestionario: undefined;
